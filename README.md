@@ -1,12 +1,12 @@
-# BusyBuddy Privacy Policy
+# Linkd Status Privacy Policy
 
-This repository contains the privacy policy for the BusyBuddy mobile application.
+This repository contains the privacy policy for the Linkd Status mobile application.
 
 **View the privacy policy:** [https://shawn-shobeiri.github.io/busybuddy-privacy/](https://shawn-shobeiri.github.io/busybuddy-privacy/)
 
-## About BusyBuddy
+## About Linkd Status
 
-BusyBuddy helps you coordinate availability with your partner seamlessly by sharing meeting status and scheduling busy times.
+Linkd Status helps you coordinate availability with your partner seamlessly by sharing meeting status and scheduling busy times.
 
 ## Contact
 
